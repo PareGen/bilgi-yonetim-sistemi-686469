@@ -1,0 +1,7 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { DocumentsModule } from './modules/documents/documents.module';
+import { AuditlogsModule } from './modules/auditlogs/auditlogs.module';
+
+// Add to @Module imports array:
+// DocumentsModule,
+// AuditlogsModule
